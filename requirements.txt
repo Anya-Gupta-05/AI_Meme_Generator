@@ -1,0 +1,4 @@
+Flask_cors
+ngrok
+requests
+stability_sdk
