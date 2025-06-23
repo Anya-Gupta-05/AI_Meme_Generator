@@ -43,9 +43,6 @@ It uses a modular design and is deployable locally with the help of Flask and ng
 pip install -r requirements.txt
 ```
 ## 📦 Requirements
----
-
-## 🚀 How to Run the Project
 
 ### 1. Start the Caption Generator API
 
